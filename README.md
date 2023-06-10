@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [get solution](https://github.com/CHARLIEADITYA/four-card-feature-section-master.git)
-- Live Site URL: [view]((https://charlieaditya.github.io/four-card-feature-section-master/))
+- Live Site URL: [view](https://charlieaditya.github.io/four-card-feature-section-master/)
 
 ## My process
 
